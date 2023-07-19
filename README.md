@@ -7,5 +7,5 @@
 
 ## Deployment
 
-## Never Give Up
+## Never Give Up (Jap Version)
 
