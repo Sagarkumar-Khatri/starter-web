@@ -13,6 +13,8 @@ Full stack application
 
 ## EMNM
 
+Eminem DRE 
+
 ## DRE
 
 ## Copyright

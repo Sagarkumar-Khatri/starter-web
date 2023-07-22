@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sagar Dev ksagar5411@gmail.com
 
 # THANKS
 
