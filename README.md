@@ -7,6 +7,8 @@
 
 ## Deployment
 
+Full stack application
+
 ## Never Give Up (Jap Version)
 
 ## EMNM
