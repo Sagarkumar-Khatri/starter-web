@@ -11,7 +11,7 @@
 Full stack application
 
 ## Never Give Up (Jap Version)
-
+ All right reserved
 ## EMNM
 
 Eminem DRE 
